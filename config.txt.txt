@@ -1,0 +1,14 @@
+{
+"app_id": "wx109d1c0eb892b50d",
+"app_secret": "196f69717e843f764eb9a9d35465d2f2",
+"template_id": "aYu6uEwaq_VdFfz2XECv5zfkXgPbV5uTH_M3jDVrx14",
+"user": ["w3176457206x"],
+"weather_key": "8d88d6f2d38a41e4b49c33c0c6950542",
+"tian_api": " 2c83198f2156bebac63e247e2ac70dcc",
+"region": "黑龙江省双城区",
+"birthday1": {"name": "凡凡", "birthday": "2003-10-27"},
+"birthday2": {"name": "鑫鑫", "birthday": "2002-11-12"},
+"love_date": "2022-08-03",
+"note_ch": "",
+"note_en": ""
+}
